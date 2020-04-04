@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: b1a9046f564e9cb27dbf                           #生成的clientID
   clientSecret: ab56a3103945abccf7dd6b0f95ddf10824867569    #生成的clientSecret
-  repo: Comments    #仓库名称
+  repo: wingsocool.github.io    #仓库名称
   owner: Wingsocool    #github用户名
   admin: Wingsocool
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
