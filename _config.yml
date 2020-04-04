@@ -1,5 +1,5 @@
 # Site settings
-title: Wing is so cool
+title: There is no spoon.
 SEOTitle: Wingsocool | Wen's Blog
 header-img: img/header.jpg
 email: yangwen_glasgow@foxmail.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/Wingsocool/wingsocool.github.io" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Trust yourself."
+sidebar-about-description: "Wing is so cool."
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
