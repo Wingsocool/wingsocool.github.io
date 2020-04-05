@@ -43,7 +43,7 @@ gems: [jekyll-paginate]
 
 
 # Sitemap
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://yangwen.press/sitemap.xml" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
