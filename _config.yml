@@ -42,6 +42,12 @@ anchorjs: true                          # if you want to customize anchor. check
 gems: [jekyll-paginate]
 
 
+# Sitemap
+url: "https://example.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
+
 
 
 # Markdown settings
