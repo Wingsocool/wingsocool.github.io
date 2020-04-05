@@ -80,7 +80,17 @@ gitalk:
 
  #Analytics settings
  #Baidu Analytics
- #ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ ba_track_id: 
+ <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f9d5e4b9ac8636cd28ced725e2f64bb4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
